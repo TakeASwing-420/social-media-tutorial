@@ -8,5 +8,9 @@
         "vscjava.vscode-java-pack"
       ]
     }
+  },
+
+  "features": {
+    "ghcr.io/devcontainers/features/git-lfs:1": {}
   }
 }
